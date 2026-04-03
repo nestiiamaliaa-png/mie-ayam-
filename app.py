@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # CONFIG
 st.set_page_config(page_title="Virtual Lab Mie Ayam", page_icon="🍜")
 
-st.title("🍜 Virtual Lab Kalori Mie Ayam")
+st.title("🍜 Berapa Kalori Mie Ayam yang Kamu Makan Hari Ini?")
 st.markdown("### Eksplorasi kalori menggunakan konsep integral dalam kehidupan nyata ✨")
 
 st.write("---")
